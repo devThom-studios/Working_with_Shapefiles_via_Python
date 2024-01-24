@@ -21,5 +21,3 @@ conda install -c conda-forge geopandas
 ##  Getting Started
 Once you have GeoPandas installed, you're ready to start loading and manipulating shapefiles. This repository provides examples and scripts that illustrate the straightforward process of loading a shapefile into a GeoDataFrame, which can then be used for a variety of geospatial analyses.
 
-
-This format is suitable for a GitHub README file. It uses Markdown syntax for headings, subheadings, and code blocks, which is standard for documentation on GitHub and similar platforms.
