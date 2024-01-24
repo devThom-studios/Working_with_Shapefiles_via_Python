@@ -18,7 +18,7 @@ Alternatively, if you're using conda, you can install GeoPandas via the conda-fo
 conda install -c conda-forge geopandas
 ```
 
-Getting Started
+##  Getting Started
 Once you have GeoPandas installed, you're ready to start loading and manipulating shapefiles. This repository provides examples and scripts that illustrate the straightforward process of loading a shapefile into a GeoDataFrame, which can then be used for a variety of geospatial analyses.
 
 
