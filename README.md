@@ -1,6 +1,6 @@
 # Working with Shapefile via Python
 
-## Introduc
+## Introductio
 This repository is dedicated to demonstrating a simple and efficient way to load and work with shapefiles using Python. It is intended for those who are interested in geospatial analysis and want to leverage Python's powerful libraries to handle geographic data.
 
 ## Installation
